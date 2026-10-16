@@ -13,6 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+    metadataBase: new URL("https://portfolio-swzh.vercel.app"),
   title: {
     default: "Lolaxon Xayrullayeva | Frontend Developer",
     template: "%s | Lolaxon Xayrullayeva",
