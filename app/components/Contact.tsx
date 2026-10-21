@@ -11,7 +11,7 @@ const contacts = [
   },
   {
     label: "GitHub",
-    value: "github.com/sizning-nomingiz",
+    value: "github.com/lola66999",
     href: "https://github.com/lola66999/github_new",
   },
 ];
